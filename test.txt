@@ -1,1 +1,2 @@
 Commit new file
+dodano nowy branch - nazwa_nowego_brancha
